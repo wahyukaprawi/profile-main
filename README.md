@@ -26,11 +26,7 @@
           I enjoy building apps that solve real problems, with a focus on clean architecture, responsive UI, and
           practical REST API integration. I've been turning Figma designs into polished Flutter
           screens and working closely with back-end teams.<br><br>
-          I graduated in Information Technology Education from Universitas Negeri Gorontalo.<br><br>
           I'm open to new opportunities where I can grow as a mobile developer and build meaningful products.<br><br>
-          📫 <a href="https://bit.ly/MyPortoApp">Portfolio</a> ·
-          <a href="https://linkedin.com/in/wahyukaprawi">LinkedIn</a> ·
-          <a href="mailto:wahyukaprawi123@gmail.com">Email</a>
         </p>
       </td>
       <td valign="top" width="45%" align="center">
