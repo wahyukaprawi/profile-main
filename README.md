@@ -1,0 +1,92 @@
+<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
+<!-- ║         ✨  W E L C O M E   T O   R A V E N C L A W C O D E  ✨          ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter:wght@700&size=32&duration=3000&pause=800&color=4190D1&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+%F0%9F%9A%80;I+build+modern+mobile+apps+%F0%9F%9A%80;From+concept+to+release+with+precision+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+  <br><br>
+
+
+<!-- ──────────── ABOUT ME ──────────── -->
+<h3 align="center">
+  About Me 
+</h3>
+
+<hr style="height:3px; background-color:#4190D1; border:none;">
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td valign="top" width="55%">
+        <br>
+        <p align="left">
+         Hi, I'm Wahyu, a mobile developer based in Jakarta, specializing in Flutter.<br><br>
+          I tend to build things that solve real problems. That's led me to ship apps across different domains - an
+          enterprise HRIS for iOS and Android, a GPS-based attendance and analytics platform (WrkPln), a video and
+          location-based job search app (Gendaris), and a sign language learning app for deaf children (Deaflypedia).
+          I focus on clean architecture, responsive UI, and practical REST API integration across every project.<br><br>
+          I graduated in Information Technology Education from Universitas Negeri Gorontalo, with an exchange semester at
+          Universitas Brawijaya. Since then I've been building mobile apps with Flutter, translating Figma designs into
+          responsive screens and working closely with back-end teams, while also building my own Laravel APIs.<br><br>
+          I'm open to new opportunities where I can grow as a mobile developer and build meaningful products.
+        </p>
+      </td>
+      <td valign="top" width="45%" align="center">
+        <img src="https://github-readme-stats-snowy-phi-18.vercel.app/api?username=808StaN&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4190D1&text_color=4190D1&icon_color=4190D1&border_color=4190D1&rank_icon=percentile" />
+        <br><br>
+        <img src="https://github-readme-tech-stats.vercel.app/api/top-langs/?username=808StaN&layout=compact&hide_border=true&bg_color=0D1117&title_color=4190D1&text_color=4190D1&icon_color=4190D1&border_color=4190D1&langs_count=5&v=2" />
+      </td>
+    </tr>
+  </table>
+<br>
+
+<!-- ──────────── TECH STACK ──────────── -->
+<h3 align="center">
+  Tech I Use
+</h3>
+
+<hr style="height:3px; background-color:#4190D1; border:none;">
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <b>💻 Languages</b><br><br>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      </td>
+      <td align="center" valign="top" width="50%">
+        <b>⚡ Frameworks / Libraries</b><br><br>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <b>🗄️ Databases</b><br><br>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+      </td>
+      <td align="center" valign="top" width="50%">
+        <b>🛠️ Tools & Platforms</b><br><br>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Moodle-F7931E?style=for-the-badge&logo=moodle&logoColor=white" />
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
