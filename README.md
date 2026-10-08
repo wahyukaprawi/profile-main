@@ -22,15 +22,15 @@
       <td valign="top" width="55%">
         <br>
         <p align="left">
-         Hi, I'm Wahyu, a mobile developer based in Jakarta, specializing in Flutter.<br><br>
-          I tend to build things that solve real problems. That's led me to ship apps across different domains - an
-          enterprise HRIS for iOS and Android, a GPS-based attendance and analytics platform (WrkPln), a video and
-          location-based job search app (Gendaris), and a sign language learning app for deaf children (Deaflypedia).
-          I focus on clean architecture, responsive UI, and practical REST API integration across every project.<br><br>
-          I graduated in Information Technology Education from Universitas Negeri Gorontalo, with an exchange semester at
-          Universitas Brawijaya. Since then I've been building mobile apps with Flutter, translating Figma designs into
-          responsive screens and working closely with back-end teams, while also building my own Laravel APIs.<br><br>
-          I'm open to new opportunities where I can grow as a mobile developer and build meaningful products.
+          Hi, I'm Wahyu, a mobile developer based in Jakarta, specializing in <b>Flutter</b>.<br><br>
+          I enjoy building apps that solve real problems, with a focus on clean architecture, responsive UI, and
+          practical REST API integration. I've been turning Figma designs into polished Flutter
+          screens and working closely with back-end teams.<br><br>
+          I graduated in Information Technology Education from Universitas Negeri Gorontalo.<br><br>
+          I'm open to new opportunities where I can grow as a mobile developer and build meaningful products.<br><br>
+          📫 <a href="https://bit.ly/MyPortoApp">Portfolio</a> ·
+          <a href="https://linkedin.com/in/wahyukaprawi">LinkedIn</a> ·
+          <a href="mailto:wahyukaprawi123@gmail.com">Email</a>
         </p>
       </td>
       <td valign="top" width="45%" align="center">
@@ -40,6 +40,7 @@
       </td>
     </tr>
   </table>
+</div>
 <br>
 
 <!-- ──────────── TECH STACK ──────────── -->
@@ -88,5 +89,6 @@
       </td>
     </tr>
   </table>
+</div>
 </div>
 <br>
