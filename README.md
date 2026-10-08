@@ -1,13 +1,8 @@
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║         ✨  W E L C O M E   T O   R A V E N C L A W C O D E  ✨          ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter:wght@700&size=32&duration=3000&pause=800&color=4190D1&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+%F0%9F%9A%80;I+build+modern+mobile+apps+%F0%9F%9A%80;From+concept+to+release+with+precision+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter:wght@700&size=32&duration=3000&pause=800&color=4190D1&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub;I+build+modern+mobile+apps;From+concept+to+release+with+precision" alt="Typing SVG" />
   </a>
   <br><br>
-
 
 <!-- ──────────── ABOUT ME ──────────── -->
 <h3 align="center">
